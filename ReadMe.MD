@@ -6,7 +6,7 @@
 Make sure GO is installed before running [Go Lang](https://go.dev/doc/install)
 
 ```
-git clone https://github.com/DimanthaG/csdd1008_week5.git
+git clone https://github.com/DimanthaG/csdd1008_Go_API.git
 cd csdd1008_week5
 go run *.go
 ```
